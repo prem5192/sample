@@ -4,7 +4,7 @@
   "start_url": "index.html",  
   "icons": [  
     {  
-      "src": "world.png",  
+      "src": "/world.png",  
       "sizes": "192x192",  
       "type": "png"  
     }
