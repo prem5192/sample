@@ -6,7 +6,7 @@
     {  
       "src": "world.png",  
       "sizes": "192x192",  
-      "type": "png"  
+      "type": "image/png"  
     }
   ],  
   "background_color": "#FAFAFA",
