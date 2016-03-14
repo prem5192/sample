@@ -1,16 +1,8 @@
-{  
-  "short_name": "First World",  
-  "name": "First World",  
-  "start_url": "index.html",  
-  "icons": [  
-    {  
-      "src": "world.png",  
-      "sizes": "192x192",  
-      "type": "image/png"  
-    }
-  ],  
-  "background_color": "#FAFAFA",
-  "theme_color": "#512DA8", 
-  "display": "standalone",  
-  "orientation": "portrait"  
+{
+  "name": "Air Horner",
+  "short_name": "Air Horner",
+  "start_url": "/?homescreen=1",
+  "display": "standalone",
+  "background_color": "#2196F3",
+  "theme_color": "#2196F3"
 }
